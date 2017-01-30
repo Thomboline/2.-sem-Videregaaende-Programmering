@@ -1,3 +1,4 @@
+//Lektion 1
 
 public class ArrayStak implements Stak {
 	
